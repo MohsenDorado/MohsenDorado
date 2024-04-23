@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **My personal portfolio**
  
- 🌱 I’m currently learning **Nextjs server actions, Ruby on Rails**
+ 🌱 I’m currently learning **Nextjs**
 
 💬 Ask me about **Node.js, React, Nextjs... or anything [here](https://t.me/MohsenDorado)**
  </div>
